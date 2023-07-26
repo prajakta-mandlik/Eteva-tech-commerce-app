@@ -1,0 +1,64 @@
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.ecommerce-img{
+    height: 60px;
+}
+
+.nav-items{
+    display: flex;
+    font-size: 10px;
+    list-style-type: none;
+}
+
+.nav-content{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.nav-menu-item {
+    font-family: 'Roboto';
+    text-decoration: none;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  .home-body{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .home-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .home-img{
+    height: 80vh;
+    width: 50vw;
+  }
+
+  .shop-btn{
+    padding: 10px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .link{
+    text-decoration: none;
+  }

@@ -1,0 +1,21 @@
+
+.product-img{
+    height: 150px;
+}
+
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.product-card{
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.product-name{
+    font-size: 20px;
+    color: black;
+}
